@@ -1,0 +1,17 @@
+{
+  "name": "mlg-angular-sql-procedure",
+  "version": "0.0.1",
+  "homepage": "https://github.com/MLG/mlg-angular-sql-procedure",
+  "authors": [
+    "Eugene OZ <normandiggs@gmail.com>"
+  ],
+  "main": "service.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
